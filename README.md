@@ -11,6 +11,15 @@ A free English-learning app for Persian speakers, designed and written by Alirez
 - Installable on the phone (PWA) and works offline
 - Fully right-to-left Persian interface with three color themes and adjustable text size
 
+## Screenshots
+<p>
+<img src="screenshots/1-home.png" width="180" alt="Home">
+<img src="screenshots/2-features.png" width="180" alt="Features">
+<img src="screenshots/3-levels-and-daily-key.png" width="180" alt="Levels and daily key">
+<img src="screenshots/4-grammar-lesson.png" width="180" alt="Grammar lesson">
+<img src="screenshots/5-word-search.png" width="180" alt="Word search">
+</p>
+
 ## Source code
 This repository is a showcase only. The source code is private and is not published here.
 
