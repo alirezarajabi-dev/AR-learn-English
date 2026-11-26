@@ -6,6 +6,7 @@ A free English-learning app for Persian speakers, designed and written by Alirez
 
 ## About the project
 - 76 grammar lessons in 4 levels (A1 to C1), plus a "from zero" track for absolute beginners
+- "Got a question?" for every lesson: 229 common learner questions answered in a friendly chat style
 - 5,760 everyday words with example sentences, 100 phrasal verbs, 200 idioms and 100 collocations
 - Sentence of the day, daily key phrases, a speed game, review system and badges
 - Installable on the phone (PWA) and works offline
